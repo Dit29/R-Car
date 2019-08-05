@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(tidyverse) \nlibrary(ggplot2) # ggplot with a lot of dependencies\n\n",
+    "created" : 1552995160163.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3488907890",
+    "id" : "CF1EC150",
+    "lastKnownWriteTime" : 1552996019,
+    "last_content_update" : 1552996019934,
+    "path" : "~/R/Projects/Working/Working/Monash.R",
+    "project_path" : "Monash.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
